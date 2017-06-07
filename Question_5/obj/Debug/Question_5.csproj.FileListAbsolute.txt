@@ -1,0 +1,12 @@
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Question_5\Question_5\bin\Debug\Question_5.exe.config
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Question_5\Question_5\bin\Debug\Question_5.exe
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Question_5\Question_5\bin\Debug\Question_5.pdb
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Question_5\Question_5\obj\Debug\Question_5.csprojResolveAssemblyReference.cache
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Question_5\Question_5\obj\Debug\Question_5.exe
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Question_5\Question_5\obj\Debug\Question_5.pdb
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Lab_Ex2\Question_5\Question_5\bin\Debug\Question_5.exe.config
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Lab_Ex2\Question_5\Question_5\obj\Debug\Question_5.exe
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Lab_Ex2\Question_5\Question_5\obj\Debug\Question_5.pdb
+F:\Programming\C#\Lab_Ex2\Question_5\Question_5\bin\Debug\Question_5.exe.config
+F:\Programming\C#\Lab_Ex2\Question_5\Question_5\obj\Debug\Question_5.exe
+F:\Programming\C#\Lab_Ex2\Question_5\Question_5\obj\Debug\Question_5.pdb
